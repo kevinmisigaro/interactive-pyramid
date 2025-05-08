@@ -8,13 +8,13 @@ interface Level {
 }
 
 const levels: Level[] = [
-  { id: 7, color: "#CC4444" },
-  { id: 6, color: "#E68A00" },
-  { id: 5, color: "#E6B800" },
+  { id: 1, color: "#CC4444" },
+  { id: 2, color: "#E68A00" },
+  { id: 3, color: "#E6B800" },
   { id: 4, color: "#33AA88" },
-  { id: 3, color: "#4477CC" },
-  { id: 2, color: "#AA66CC" },
-  { id: 1, color: "#8888CC" },
+  { id: 5, color: "#4477CC" },
+  { id: 6, color: "#AA66CC" },
+  { id: 7, color: "#8888CC" },
 ];
 
 const SegmentedPyramid: React.FC = () => {
