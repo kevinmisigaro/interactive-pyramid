@@ -12,12 +12,12 @@ function Page() {
         <Link href="/grid/option1" className="text-blue-600 hover:underline">
           Option 1
         </Link>
-        {/* <Link href="/option2" className="text-blue-600 hover:underline">
+        <Link href="/option2" className="text-blue-600 hover:underline">
           Option 2
         </Link>
         <Link href="/option3" className="text-blue-600 hover:underline">
           Option 3
-        </Link> */}
+        </Link>
       </div>
     </div>
   );
